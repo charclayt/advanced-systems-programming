@@ -67,6 +67,6 @@ class string {
     size_t m_size;
 };
 
-} // namespace string
+} // namespace custom_string
 
 #endif // __MY_STRING_HPP_

@@ -69,6 +69,6 @@ class string {
     size_t* m_referenceCount;
 };
 
-} // namespace string
+} // namespace custom_string
 
 #endif // __MY_STRING_HPP_
